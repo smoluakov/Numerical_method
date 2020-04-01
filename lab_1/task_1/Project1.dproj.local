@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.132,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.121,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020.03.30 09:45:08.340,\\Mac\Home\Desktop\Gauss methode\Project1.dproj=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020.03.30 13:39:54.535,\\Mac\Home\Desktop\task_1\Project1.dproj=\\Mac\Home\Desktop\Gauss methode\Project1.dproj</Transaction>
+    <Transaction>2020.03.30 13:44:49.691,\\Mac\Home\Desktop\task_1\Project1.dproj=\\Mac\Home\Desktop\task_1\Project1.dproj</Transaction>
+    <Transaction>2020.03.30 13:56:09.112,\\Mac\Home\Desktop\task_1\Project1.dproj=\\Mac\Home\Desktop\task_1\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
