@@ -6,7 +6,7 @@
       * [СЛАУ. Метод Якоби](https://github.com/smoluakov/Numerical_method/tree/master/lab_1/task_2).
       
       
-2. [ИНТЕРПОЛИРОВАНИЕ ФУНКЦИЙ](тут ссылка)
+2. [ИНТЕРПОЛИРОВАНИЕ ФУНКЦИЙ](https://github.com/smoluakov/Numerical_method/tree/master/lab_2)
      * [Интерполяционный полином Ньютона](ссылка)
      
 
