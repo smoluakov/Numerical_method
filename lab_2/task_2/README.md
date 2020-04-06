@@ -5,4 +5,5 @@
 Я проверял также с помощью [калькулятора](https://tools.timodenk.com/cubic-spline-interpolation)
 и получил это
 [![Screen-Shot-2020-04-06-at-13-46-54.png](https://i.postimg.cc/k4vpzBWf/Screen-Shot-2020-04-06-at-13-46-54.png)](https://postimg.cc/7Gb9TPs2)
+
 С чем это связано, ответить затрудняюьсь
