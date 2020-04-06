@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.588,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.961,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas=\\Mac\Home\Desktop\task_1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.304,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1.dproj=\\Mac\Home\Desktop\task_1\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.132,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.961,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.dfm=\\Mac\Home\Desktop\task_1\Unit1.dfm</Transaction>
     <Transaction>1899.12.30 00:00:00.000.524,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.121,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.132,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020.04.04 16:22:58.588,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020.04.04 16:51:29.961,\\Mac\Home\Desktop\task_1\Unit1.dfm=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2020.04.04 16:51:29.961,\\Mac\Home\Desktop\task_1\Unit1.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020.04.04 16:51:31.304,\\Mac\Home\Desktop\task_1\Project1.dproj=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
   </Transactions>
 </BorlandProject>
