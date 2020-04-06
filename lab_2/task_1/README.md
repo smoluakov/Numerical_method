@@ -1,4 +1,13 @@
-\documentclass[11pt]{article}
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{interoplation}
+\author{jordanadam28 }
+\date{April 2020}
+
+
+
+
 
 % graphics
 \usepackage{tikz}
