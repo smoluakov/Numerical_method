@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.912,=E:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.921,E:\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\User\Desktop\Кубический сплайн\Unit1.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.483,=E:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.493,C:\Users\User\Desktop\Кубический сплайн\Project1.dproj=E:\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.921,C:\Users\User\Desktop\Кубический сплайн\Unit1.dfm=E:\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.921,C:\Users\User\Desktop\Кубический сплайн\Unit1.pas=E:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.912,=E:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.921,E:\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\User\Desktop\Кубический сплайн\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.493,E:\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\User\Desktop\Кубический сплайн\Project1.dproj</Transaction>
   </Transactions>
 </BorlandProject>
