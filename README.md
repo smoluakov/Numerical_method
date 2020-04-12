@@ -10,6 +10,10 @@
      * [Интерполяция полиномом Ньютона](https://github.com/smoluakov/Numerical_method/tree/master/lab_2/task_1)
      * [Интерполяция кубическим сплайном](https://github.com/smoluakov/Numerical_method/tree/master/lab_2/task_2)
      
+     
+3. [ВЫЧИСЛЕНИЕ ОПРЕДЕЛЕННЫХ ИНТЕГРАЛОВ](https://github.com/smoluakov/Numerical_method/tree/master/lab_3)
+     * [Mетод Монте-Карло](https://github.com/smoluakov/Numerical_method/tree/master/lab_3/task_1)
+     * [Mетод Ньютона-Котеса](пока пусто)     
 
 
 
