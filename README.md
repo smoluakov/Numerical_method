@@ -13,7 +13,7 @@
      
 3. [ВЫЧИСЛЕНИЕ ОПРЕДЕЛЕННЫХ ИНТЕГРАЛОВ](https://github.com/smoluakov/Numerical_method/tree/master/lab_3)
      * [Mетод Монте-Карло](https://github.com/smoluakov/Numerical_method/tree/master/lab_3/task_1)
-     * [Mетод Ньютона-Котеса](пока пусто)     
+     * [Mетод Ньютона-Котеса](https://github.com/smoluakov/Numerical_method/tree/master/lab_3/task_2)     
 
 
 
