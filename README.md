@@ -18,7 +18,7 @@
 
 4. [Численное решение задачи Коши для ОДУ](https://github.com/smoluakov/Numerical_method/tree/master/lab_4)
      * [Mетод Рунге-Кутта](https://github.com/smoluakov/Numerical_method/tree/master/lab_4/task_1)
-     * [Mетод Адамса](пока пусто)   
+     * [Mетод Адамса](https://github.com/smoluakov/Numerical_method/tree/master/lab_4/task_2) 
 
 
 
