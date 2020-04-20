@@ -1,0 +1,98 @@
+unit Unit1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, VclTee.TeeGDIPlus, VCLTee.TeEngine,
+  VCLTee.Series, Vcl.StdCtrls, Vcl.ExtCtrls, VCLTee.TeeProcs, VCLTee.Chart, Math;
+
+type
+  TForm1 = class(TForm)
+    Chart1: TChart;
+    Button1: TButton;
+    Series1: TLineSeries;
+    procedure Button1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+function f(x,y : real):real;
+begin
+  f := (Cos(y)/(x+2)) + 0.3*sqr(y)
+end;
+
+procedure TForm1.Button1Click(Sender: TObject);
+var
+  k1,k2,k3,k4,x0,y0,y1,dx,x,f0,f1,f2,f3,b,a,h,p,f4 : real;
+  n,i : integer;
+  xx : array [1..100] of real;
+  fx : array [1..100] of real;
+begin
+  x0 := 0;
+  y0 := 1;
+  x := 3;
+  dx := 0.0001;
+  n := 4;
+  xx[1] := x0;
+  fx[1] := y0;
+  for i := 2 to n do
+    begin
+      x0 := x0 + dx;
+      k1 := f(x0,y0);
+      k2 := f(x0 + dx/2 , y0 + k1*dx/2);
+      k3 := f(x0 + dx/2 , y0 + k2*dx/2);
+      k4 := f(x0 + dx, y0 + k3*dx);
+      y1 := y0 + ((k1 + 2*k2 + 2*k3 + k4)/6)*dx;
+      y0 := y1;
+      xx[i] := x0;
+      fx[i] := y0;
+
+    end;
+
+
+  f1 := f(xx[1],fx[1]);
+  f2 := f(xx[2],fx[2]);
+  f3 := f(xx[3],fx[3]);
+  f4 := f(xx[4],fx[4]);
+
+  n := 100;
+  p := 0;
+  b := 3;
+  a := 0;
+  h := (b-a)/n ;
+
+
+
+  for I := 4 to n-1 do
+    begin
+      p := fx[i] + (h/24)*(55 * f4 -59*f3 + 37*f2 - 9*f1);
+      xx[i+1] := a + h*i;
+      fx[i+1] := p;
+      f1 := f2;
+      f2 := f3;
+      f3 := f4;
+      f4 := f(xx[i+1],fx[i+1]);
+
+    end;
+
+
+  for i := 1 to n do
+    begin
+      Series1.AddXY(xx[i],fx[i]);
+    end;
+
+
+
+end;
+
+end.
