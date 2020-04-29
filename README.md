@@ -19,6 +19,12 @@
 4. [Численное решение задачи Коши для ОДУ](https://github.com/smoluakov/Numerical_method/tree/master/lab_4)
      * [Mетод Рунге-Кутта](https://github.com/smoluakov/Numerical_method/tree/master/lab_4/task_1)
      * [Mетод Адамса](https://github.com/smoluakov/Numerical_method/tree/master/lab_4/task_2) 
+   
+   
+5. [РЕШЕНИЕ ЛИНЕЙНЫХ ДУЧП](https://github.com/smoluakov/Numerical_method/tree/master/lab_5)
+     * [Решение ур-ий эллипт.типа методом сеток](https://github.com/smoluakov/Numerical_method/tree/master/lab_5/task_1)
+     * [Решение ОДУ с граничными условиями ](пока пусто) 
+
 
 
 
