@@ -23,7 +23,7 @@
    
 5. [РЕШЕНИЕ ЛИНЕЙНЫХ ДУЧП](https://github.com/smoluakov/Numerical_method/tree/master/lab_5)
      * [Решение ур-ий эллипт.типа методом сеток](https://github.com/smoluakov/Numerical_method/tree/master/lab_5/task_1)
-     * [Решение ОДУ с граничными условиями ](пока пусто) 
+     * [Решение ОДУ с граничными условиями ](https://github.com/smoluakov/Numerical_method/tree/master/lab_5/task_2) 
 
 
 
