@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.709,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\User\Desktop\ОДУ с граничными условиями\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.309,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\User\Desktop\ОДУ с граничными условиями\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.406,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.709,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\User\Desktop\ОДУ с граничными условиями\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.894,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020.04.29 16:10:41.050,\\Mac\Home\Desktop\task_2\Unit1.dfm=\\Mac\Home\Documents\Учеба\2 курс\4 семестр\прога\)\4 сем прога\5 лаб работа\ОДУ с граничными условиями\Unit1.dfm</Transaction>
+    <Transaction>2020.04.29 16:10:41.050,\\Mac\Home\Desktop\task_2\Unit1.pas=\\Mac\Home\Documents\Учеба\2 курс\4 семестр\прога\)\4 сем прога\5 лаб работа\ОДУ с граничными условиями\Unit1.pas</Transaction>
+    <Transaction>2020.04.29 16:11:14.019,\\Mac\Home\Desktop\task_2\Project1.dproj=\\Mac\Home\Documents\Учеба\2 курс\4 семестр\прога\)\4 сем прога\5 лаб работа\ОДУ с граничными условиями\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
