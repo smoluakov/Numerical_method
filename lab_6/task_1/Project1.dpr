@@ -1,0 +1,14 @@
+program Project1;
+
+uses
+  Vcl.Forms,
+  Unit1 in '\\Mac\Home\Documents\Учеба\2 курс\4 семестр\прога\)\4 сем прога\6 лаб работа\ДУЧП Параболического типа  (явная схема)\Unit1.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.
